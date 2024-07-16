@@ -11,7 +11,7 @@ import { createUser } from "@/lib/actions/patient.actions";
 import { UserFormValidation } from "@/lib/validation";
 
 import "react-phone-number-input/style.css";
-import CustomFormField, { FormFieldType } from "../CustomFormField";
+import CustomFormField, { FormFieldType } from "../CustomFormFeild";
 import SubmitButton from "../SubmitButton";
 
 export const PatientForm = () => {
